@@ -7,7 +7,7 @@ The **divide and conquer** method involves splitting an array in half recursivel
 
 ### How It Works
 1. **Divide:** Split the array into two halves at the middle index
-2. **Conquer:** Recursively sort each half
+2. **Conquer:** Recursive sort each half
 3. **Combine:** Merge the two sorted halves into one sorted array
 
 ### Example
